@@ -13,18 +13,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-### whoami
-
-I build cross-border payments end to end — a **.NET** partner-integration layer (minimal REST + SOAP) that plugs remittance providers into one contract, an **ASP.NET WebForms + SQL Server** back office, and a **React Native + Expo** app in customers' hands. Most of it rides on carefully-tuned T-SQL and a fleet of orchestrated AI agents.
-
-</div>
-
----
-
 <div align="center">
 
 ### AI I drive daily
@@ -37,8 +25,6 @@ I build cross-border payments end to end — a **.NET** partner-integration laye
 <img src="https://img.shields.io/badge/MCP-C41E3A?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -72,8 +58,6 @@ I build cross-border payments end to end — a **.NET** partner-integration laye
 
 </div>
 
----
-
 <div align="center">
 
 ### Public workbench
@@ -87,11 +71,7 @@ I build cross-border payments end to end — a **.NET** partner-integration laye
 
 </div>
 
----
-
 <div align="center">
-
-### Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirtuaChamp/VirtuaChamp/output/github-snake-dark.svg" />
@@ -101,11 +81,13 @@ I build cross-border payments end to end — a **.NET** partner-integration laye
 
 </div>
 
----
-
 <div align="center">
 
-<sub>powered by strong coffee, tuned execution plans, and a fleet of AI agents</sub>
+<em>Security is just a state of mind.</em>
+
+<br/>
+
+<sub>Powered by Monster and pizza, a spec-plan addiction, and a fleet of AI agents.</sub>
 
 <br/><br/>
 
