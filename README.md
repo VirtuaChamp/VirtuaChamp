@@ -91,21 +91,6 @@ I build cross-border payments end to end — a **.NET** partner-integration laye
 
 <div align="center">
 
-### Stats
-
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=VirtuaChamp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C41E3A&icon_color=C41E3A" alt="stats" />
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VirtuaChamp&layout=compact&langs_count=8&hide_border=true&title_color=C41E3A" alt="top langs" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=VirtuaChamp&hide_border=true&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A" alt="streak" />
-
-</div>
-
----
-
-<div align="center">
-
 ### Contribution snake
 
 <picture>
