@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=4000&pause=1000&color=C41E3A&center=true&vCenter=true&repeat=false&width=520&height=52&lines=VirtuaChamp" alt="VirtuaChamp" />
 
-<sub>French fintech engineer · cross-border payments · based in Ecuador 🇫🇷 🇪🇨</sub>
+<sub>French fintech engineer · cross-border payments · based in Ecuador</sub>&nbsp;<img src="https://flagcdn.com/20x15/fr.png" alt="France" />&nbsp;<img src="https://flagcdn.com/20x15/ec.png" alt="Ecuador" />
 
 <br/><br/>
 
