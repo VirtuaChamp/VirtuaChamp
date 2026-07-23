@@ -120,6 +120,19 @@
 
 <div align="center">
 
+### Stats
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=VirtuaChamp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C41E3A&icon_color=C41E3A&text_color=C9D1D9" alt="stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VirtuaChamp&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C41E3A&text_color=C9D1D9" alt="top langs" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=VirtuaChamp&hide_border=true&background=0D1117&stroke=C41E3A&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
+
+</div>
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirtuaChamp/VirtuaChamp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VirtuaChamp/VirtuaChamp/output/github-snake.svg" />
